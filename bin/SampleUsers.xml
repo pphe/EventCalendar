@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<users>
+ <user>
+	<accountid>donor</accountid>
+	<password>donor</password>
+	<organization>UW-T</organization>
+	<phone>555-555-5555</phone>
+	<email>husky@uw.edu</email>
+	<role>donor</role>
+ </user>
+ <user>
+	<accountid>org</accountid>
+	<password>org</password>
+	<organization>UW-T</organization>
+	<phone>555-555-5555</phone>
+	<email>husky@uw.edu</email>
+	<role>organization</role>
+ </user>
+</users>

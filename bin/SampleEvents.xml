@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<events>
+ <event>
+   <date>2016-12-08</date>
+   <time>08:00</time>
+   <location>Seattle</location>
+   <sponsor>Red Cross</sponsor>
+   <category>Clothing</category>
+   <title>Red Cross Clothing Drive</title>
+   <qty>500</qty>
+   <goal>1000</goal>
+ </event>
+ <event>
+   <date>2016-12-09</date>
+   <time>08:00</time>
+   <location>Renton</location>
+   <sponsor>Red Cross</sponsor>
+   <category>Toy</category>
+   <title>Red Cross Toy Drive</title>
+   <qty>300</qty>
+   <goal>1000</goal>
+ </event>
+ <event>
+   <date>2016-12-15</date>
+   <time>08:00</time>
+   <location>Seattle</location>
+   <sponsor>Seattle Children's Hospital</sponsor>
+   <category>Book</category>
+   <title>SCH Toy Drive</title>
+   <qty>400</qty>
+   <goal>1000</goal>
+ </event>
+ <event>
+   <date>2016-12-16</date>
+   <time>08:00</time>
+   <location>Tacoma</location>
+   <sponsor>UW</sponsor>
+   <category>Book</category>
+   <title>UWT Textbook Drive</title>
+   <qty>300</qty>
+   <goal>1000</goal>
+ </event>
+ <event>
+   <date>2016-12-22</date>
+   <time>08:00</time>
+   <location>Federal Way</location>
+   <sponsor>YMCA</sponsor>
+   <category>Furniture</category>
+   <title>YMCA Furniture Drive</title>
+   <qty>0</qty>
+   <goal>1000</goal>
+ </event>
+ <event>
+   <date>2016-12-23</date>
+   <time>08:00</time>
+   <location>Lynnwood</location>
+   <sponsor>Red Cross</sponsor>
+   <category>Clothing</category>
+   <title>Red Cross Clothing Drive</title>
+   <qty>300</qty>
+   <goal>1000</goal>
+ </event>
+ <event>
+   <date>2016-12-29</date>
+   <time>08:00</time>
+   <location>Vancouver</location>
+   <sponsor>Operation Christmas Child</sponsor>
+   <category>Toy</category>
+   <title>OCC Toy Drive</title>
+   <qty>500</qty>
+   <goal>1000</goal>
+ </event>
+ <event>
+   <date>2016-12-30</date>
+   <time>08:00</time>
+   <location>Seattle</location>
+   <sponsor>Seattle Homeless Shelter</sponsor>
+   <category>Blanket</category>
+   <title>SHS Blanket Drive</title>
+   <qty>100</qty>
+   <goal>1000</goal>
+ </event>
+ <event>
+   <date>2017-01-01</date>
+   <time>08:00</time>
+   <location>Tacoma</location>
+   <sponsor>Fish Food Bank</sponsor>
+   <category>Food</category>
+   <title>Fish Food Bank Canned Food Drive</title>
+   <qty>200</qty>
+   <goal>1000</goal>
+ </event>
+ <event>
+   <date>2017-01-02</date>
+   <time>08:00</time>
+   <location>Tacoma</location>
+   <sponsor>YMCA</sponsor>
+   <category>Food</category>
+   <title>YMCA Food Drive</title>
+   <qty>300</qty>
+   <goal>1000</goal>
+ </event>
+</events>

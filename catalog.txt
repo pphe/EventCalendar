@@ -1,0 +1,38 @@
+EventCalendar/
+├── EventCalendar.jar
+├── resources
+│   ├── calendar.jpg
+│   ├── Home.jpg
+│   ├── husky 2.jpeg
+│   ├── Logout.jpg
+│   ├── mapIcon.jpg
+│   ├── SampleEvents.xml
+│   ├── SampleUsers.xml
+│   ├── small_Cancel.jpg
+│   ├── USRegion3.jpg
+│   ├── USRegion4.jpg
+│   └── USRegion.jpg
+└── src
+    ├── model
+    │   ├── Data.java
+    │   ├── Event.java
+    │   └── User.java
+    ├── runApplication
+    │   └── Main.java
+    ├── tests
+    │   ├── DataTest.java
+    │   ├── EventTest.java
+    │   ├── UserTest.java
+    │   └── XMLHandlerTest.java
+    ├── utility
+    │   └── XMLHandler.java
+    └── view
+        ├── ColorIcon.java
+        ├── GUI_About.java
+        ├── GUI_BarChart.java
+        ├── GUI_Calendar.java
+        ├── GUI_Event.java
+        ├── GUI_Login.java
+        ├── GUI_Map.java
+        ├── GUI_NewUser.java
+        └── GUI_PwdReset.java
